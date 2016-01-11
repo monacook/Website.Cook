@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<!-- saved from url=(0076)file:///Users/monacook/Downloads/Shield%20(3)/Shield%20Theme/home.html#about -->
+<html class=" js no-touch cssanimations csstransitions"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="file:///Users/monacook/Downloads/Shield%20(3)/Shield%20Theme/assets/ico/favicon.png">
+
+    <title>Dr. Elizabeth E. Ventura-Cook</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./Dr. Elizabeth E. Ventura-Cook_files/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="./Dr. Elizabeth E. Ventura-Cook_files/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="./Dr. Elizabeth E. Ventura-Cook_files/icomoon.css">
+    <link href="./Dr. Elizabeth E. Ventura-Cook_files/animate-custom.css" rel="stylesheet">
+
+
+
+    <link href="./Dr. Elizabeth E. Ventura-Cook_files/css" rel="stylesheet" type="text/css">
+    <link href="./Dr. Elizabeth E. Ventura-Cook_files/css(1)" rel="stylesheet" type="text/css">
+
+    <script src="./Dr. Elizabeth E. Ventura-Cook_files/jquery.min.js"></script>
+<script type="text/javascript" src="./Dr. Elizabeth E. Ventura-Cook_files/modernizr.custom.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+
+
+  <div id="navbar-main">
+      <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand hidden-xs hidden-sm" href="file:///Users/monacook/Downloads/Shield%20(3)/Shield%20Theme/home.html#home"><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="file:///Users/monacook/Downloads/Shield%20(3)/Shield%20Theme/home.html" class="home">Home</a></li>
+<li class="active"> <a href="./Dr. Elizabeth E. Ventura-Cook_files/Dr. Elizabeth E. Ventura-Cook.html" class="about"> About</a></li>
+<li> <a href="file:///Users/monacook/Downloads/Shield%20(3)/Shield%20Theme/service.html" class="service"> Services</a></li>
+<li> <a href="file:///Users/monacook/Downloads/Shield%20(3)/Shield%20Theme/contact.html" class="contact"> Contact</a></li>
+        </ul></div><!--/.nav-collapse -->
+      </div>
+    </div>
+    </div>
+
+
+<!-- ==== HEADERWRAP ==== -->
+   <div id="headerwrap" name="home">
+<header class="clearfix">
+ 	<h1><span class="icon icon-shield"></span></h1>
+ 	<p>Elizabeth E. Ventura-Cook, PHD</p>
+ 	<p>Psychologist</p>
+ 	</header>
+   </div><!-- /headerwrap -->
+
+
+<!--/----about
+<!DOCTYPE html-->
+
+  
+    <meta charset="utf-8">
+    <title>hows it going!</title>
+  
+  
+
+  
+
+  <div class="container" id="about" name="about">
+    <div class="row white">
+    <br>
+      <h1 class="centered">ABOUT MYSELF</h1>
+      <hr>
+
+      <div class="col-lg-6">
+        </div>
+
+      </div><!-- col-lg-6 -->
+
+
+
+      <div class="col-lg-6">
+        <p>I have expertise in helping adults, adolescents, children and families understand dificulties that may affect their relationships, career, academics and overall well-being. I apply interventions that alleviate your challenges/struggles. I am US educated, postdoctoral fellowship-trained, licensed psychologist who provides evaluations to children, adolescents and adults who exhibit behaviors that impair their ability to perform effectively. Also, as a workplace dynamics coach, I collaborate with individuals explore sources of conflicts, and implement actions to diminish challenges in the workplace. In addition, as a personal coach, I partner with individuals find their motivations that lead to a meaningful life.</p>
+        <p>I use various diagnostic approaches to help clients understand conflicts, depression, anxiety, loss/grief, attention, emotional and behavior difficulties. I conduct ADHD evaluations of children and adults. I apply a multidisciplinary approach to treatment. As a coach, I assist individuals sort, navigate, cope with their challenges to attain well-being.
+        I have several years of experience as a practitioner in the US that allows me to provide specialized service towards realization of your specific goals. My familiarity with different cultures, residency in several states, and fluency in Tagalog, Ilocano and English bring unique perspectives to my practice benefiting my clients.</p>
+      </div><!-- col-lg-6 -->
+    </div><!-- row -->
+  <!-- container -->
+
+
+  <!-- ==== SERVICES ==== -->
+
+
+<!--/---contact box--
+<!-- Section: contact ---->
+  <section id="contact" class="home-section text-center">
+  <div class="heading-contact">
+    <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <div class="wow bounceInDown" data-wow-delay="0.4s">
+        <div class="section-heading">
+        <h2>Get in touch</h2>
+        <i class="fa fa-2x fa-angle-down"></i>
+
+        </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+  <div class="container">
+
+  <div class="row">
+    <div class="col-lg-2 col-lg-offset-5">
+      <hr class="marginbot-50">
+    </div>
+  </div>
+      <div class="col-lg-8">
+          <div class="boxed-grey">
+              <form id="contact-form">
+              <div class="row">
+                  <div class="col-md-6">
+                      <div class="form-group">
+                          <label for="name">
+                            <br>
+                              Name</label>
+                          <input type="text" class="form-control" id="name" placeholder="Enter name" required="required">
+                      </div>
+                      <div class="form-group">
+                          <label for="email">
+                              Email Address</label>
+                          <div class="input-group">
+                              <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span>
+                              </span>
+                              <input type="email" class="form-control" id="email" placeholder="Enter email" required="required"></div>
+
+                          
+                      </div>
+                  </div>
+                  <div class="col-md-6">
+                      <div class="form-group">
+                          <label for="name">
+                            <br>
+                              Message</label>
+                          <textarea name="message" id="message" class="form-control" rows="9" cols="25" required="required" placeholder="Message"></textarea>
+                      </div>
+                  </div>
+                  <div class="col-md-12">
+                      <button type="submit" class="btn btn-skin pull-right" id="btnContactUs">
+                          Send Message</button>
+                  </div>
+              </div>
+              </form>
+          </div>
+      </div>
+
+  <div class="col-lg-4">
+    <div class="widget-contact">
+
+      <address>
+        <br>
+
+        <strong>Psychologist, PdD</strong><br>
+          <h5>Main Office</h5>9414 E. San Salvador Drive, Suite 228<br>
+        Scottsdale, Arizona<br>
+        <abbr title="Phone"></abbr>(480) 845-0351
+      </address>
+
+      <address>
+        <strong>Email</strong><br>
+        <a href="mailto:#">email.name@example.com</a>
+      </address>
+      <address>
+
+                      
+      </address>
+
+    </div>
+  </div>
+  </div>
+
+  
+</section>
+<!-- /Section: contact -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-lg-12">
+        <div class="wow shake" data-wow-delay="0.4s">
+        <div class="page-scroll marginbot-30">
+          <a href="file:///Users/monacook/Downloads/Shield%20(3)/Shield%20Theme/home.html#intro" id="totop" class="btn btn-circle">
+            <i class="fa fa-angle-double-up animated"></i>
+          </a>
+        </div>
+        </div>
+        <p>©Copyright 2016 - Squad. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script type="text/javascript" src="./Dr. Elizabeth E. Ventura-Cook_files/bootstrap.min.js"></script>
+<script type="text/javascript" src="./Dr. Elizabeth E. Ventura-Cook_files/retina.js"></script>
+<script type="text/javascript" src="./Dr. Elizabeth E. Ventura-Cook_files/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="./Dr. Elizabeth E. Ventura-Cook_files/smoothscroll.js"></script>
+<script type="text/javascript" src="./Dr. Elizabeth E. Ventura-Cook_files/jquery-func.js"></script>
+
+
+</body></html>
